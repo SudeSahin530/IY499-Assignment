@@ -1,0 +1,16 @@
+Company_Names,Cars_Names,Engines,CC/Battery_Capacity,HorsePower,Total_Speed,Performance(0-100)_KM/H,Cars_Prices,Fuel_Type,Seats
+PORSCHE,911 GT3 RS Clubsport,4.0L Naturally Aspirated Flat-6,3996 cc,525 hp,296 km/h,3.2 sec,£170507,Petrol,2
+ASTON MARTIN,DB12,V8 Twin-Turbo, 3982 cc,671 hp,325 km/h,3.6 sec,£189094,Petrol,4
+BUGATTI,Mistral,8.0L Quad-Turbo W16,7993 cc,1600 hp,420 km/h,2.4 sec,£3812625,Petrol,2
+JAGUAR LAND ROVER,Jaguar XE,I4 Petrol,1999 cc (I4),250 hp,250 km/h,6.5 sec,£34157,Petrol,5
+MASERATI,MC20,V6 Nettuno,3000 cc,621 hp,325 km/h,2.9 sec,£185274,Petrol,2
+LAND ROVER,DEFENDER 110 D300,3.0L Diesel,2996 cc,296 hp,191 km/h,7.0 sec,£52227,Diesel,5
+BMW,I8 ROADSTER,ELECTRIC MOTOR,11.6 kwh,369 hp,250 km/h,4.4 sec,£125804,Hybrid,2
+VOLVO,XC90 RECHARGE,2.0L Plug-in,1969 cc,455 hp,180 km/h,5.4 sec,£54842,Hybrid,7
+ROLLS ROYCE,PHANTOM,V12,6749 cc,563 hp,250 km/h,5.3 sec,£351682,Petrol,5
+MERCEDES,GT 63 s,V8,3982 cc,630 hp,250 km/h,3.2 sec,£122792,Petrol,4
+MINI,COOPER SE,Electric Motor,54.2 kWh,218 hp,170 km/h,6.7 sec,£26614,Electric,4
+FERRARI,SF90 STRADALE,V8,3990 cc,963 hp,340 km/h,2.5 sec,£838964,Hybrid,2
+AUDI,AUDI R8 GT,V10,5204 cc,602 hp,320 km/h,3.6 sec,£193190,Petrol,2
+BENTLEY,Continental GT Azure,V8,3996 cc,550 hp,318 km/h,4.0 sec,£237211,Petrol,4
+SKODA,OCTAVIA VRS TDI,2.0L Diesel,1968 cc,200 hp,245 km/h,6.8 sec,£31421,Diesel,5
